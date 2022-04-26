@@ -8,7 +8,7 @@ import java.awt.BorderLayout;
 
 /**
  *
- * @author dani
+ * @author dani1
  */
 public class MainFrame extends javax.swing.JFrame {
 
